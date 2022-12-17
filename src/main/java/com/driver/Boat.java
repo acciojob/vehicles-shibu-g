@@ -2,6 +2,12 @@ package com.driver;
 
 public class Boat implements WaterVehicle{
 
+	
+	
+	public Boat() {
+		
+	}
+
 	@Override
 	public String getVehicleName() {
 		// TODO Auto-generated method stub
